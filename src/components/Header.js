@@ -32,10 +32,11 @@ function Header() {
       </div>
 
       <div className="links">
-        <a href="/">1 лінк</a>
-        <a href="/">2 лінк</a>
-        <a href="/">3 лінк</a>
-        <a href="/">4 лінк</a>
+        <a href="/">1 лаба</a>
+        <a href="/">2 лаба</a>
+        <a href="/">3 лаба</a>
+        <a href="/">4 лаба</a>
+        <a href="/">4 лаба</a>
       </div>
 
       <div className='UserAndLang'>
@@ -48,10 +49,11 @@ function Header() {
             <i className="fa-solid fa-xmark"></i>
           </div>
           <div className='links'>
-            <a href="/map" className={getLinkClass('/map')}><span>1</span><i className="fa-solid fa-chevron-right"></i></a>
-            <a href="/travels" className={getLinkClass('/travels')}><span>3</span><i className="fa-solid fa-chevron-right"></i></a>
-            <a href="/routes" className={getLinkClass('/routes')}><span>4</span><i className="fa-solid fa-chevron-right"></i></a>
-            <a href="/help" className={getLinkClass('/help')}><span>5</span><i className="fa-solid fa-chevron-right"></i></a>
+            <a href="/map" className={getLinkClass('/firstlab')}><span>1 лаба</span><i className="fa-solid fa-chevron-right"></i></a>
+            <a href="/travels" className={getLinkClass('/secondlab')}><span>2 лаба</span><i className="fa-solid fa-chevron-right"></i></a>
+            <a href="/routes" className={getLinkClass('/thirdlab')}><span>3 лаба</span><i className="fa-solid fa-chevron-right"></i></a>
+            <a href="/help" className={getLinkClass('/fourthlab')}><span>4 лаба</span><i className="fa-solid fa-chevron-right"></i></a>
+            <a href="/help" className={getLinkClass('/fifthlab')}><span>5 лаба</span><i className="fa-solid fa-chevron-right"></i></a>
           </div>
         </div>
       </div>

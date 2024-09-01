@@ -28,10 +28,11 @@ function Footer() {
             <i className={`fa-solid fa-chevron-down ${openMenu === 'middle' ? 'open' : ''}`}></i>
           </div>
           <div className={`LinksFooter ${openMenu === 'middle' ? 'open' : ''}`}>
-            <a href="/"><span>1 лінк</span></a>
-            <a href="/"><span>2 лінк</span></a>
-            <a href="/"><span>3 лінк</span></a>
-            <a href="/"><span>4 лінк</span></a>
+            <a href="/"><span>1 лаба</span></a>
+            <a href="/"><span>2 лаба</span></a>
+            <a href="/"><span>3 лаба</span></a>
+            <a href="/"><span>4 лаба</span></a>
+            <a href="/"><span>4 лаба</span></a>
           </div>
         </div>
 
@@ -41,10 +42,10 @@ function Footer() {
             <i className={`fa-solid fa-chevron-down ${openMenu === 'middleRight' ? 'open' : ''}`}></i>
           </div>
           <div className={`LinksFooter ${openMenu === 'middleRight' ? 'open' : ''}`}>
-            <a href="/"><span>1 лінк</span></a>
-            <a href="/"><span>2 лінк</span></a>
-            <a href="/"><span>3 лінк</span></a>
-            <a href="/"><span>4 лінк</span></a>
+            <a href="/"><span>1 лаба</span></a>
+            <a href="/"><span>2 лаба</span></a>
+            <a href="/"><span>3 лаба</span></a>
+            <a href="/"><span>4 лаба</span></a>
           </div>
         </div>
 

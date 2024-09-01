@@ -183,6 +183,7 @@
 @media (max-width: 768px) {
   .Header {
     padding: 25px 25px;
+    justify-content: space-between;
   }
 
   .Logo img {
