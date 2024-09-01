@@ -3,6 +3,7 @@ import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } 
 import Header from './components/Header';
 import Footer from './components/Footer.js';
 import Home from './pages/Home.js';
+import './App.css'
 
 function App() {
   const router = createBrowserRouter(
